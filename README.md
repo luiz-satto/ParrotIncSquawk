@@ -1,4 +1,4 @@
-## .NET 8: DDD, CQRS, Vertical/Clean Architecture
+## About this solution:
 
 Using ASP.NET Core Minimal APIs and latest features of .NET8 and C# 12.
 
